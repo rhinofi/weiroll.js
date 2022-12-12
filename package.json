@@ -1,5 +1,5 @@
 {
-  "name": "@weiroll/weiroll.js",
+  "name": "@rhino.fi/weiroll.js",
   "version": "0.3.0",
   "description": "The weiroll planner in JS",
   "main": "dist/index.js",
@@ -33,7 +33,6 @@
   "bugs": {
     "url": "https://github.com/weiroll/weiroll.js/issues"
   },
-  "peerDependencies": {},
   "prettier": {
     "printWidth": 80,
     "semi": true,
